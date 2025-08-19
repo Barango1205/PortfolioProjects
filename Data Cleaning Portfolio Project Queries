@@ -180,4 +180,5 @@ ALTER TABLE [Portfolio Project].dbo.[dbo.NashvilleHousing]
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 
 ALTER TABLE [Portfolio Project].dbo.[dbo.NashvilleHousing]
+
 DROP COLUMN SaleDate
